@@ -1,0 +1,14 @@
+1.shouldReturnNightBetweenZeroAndSix sirve para revisar que el codigo de "night" cuando de una hora
+antes de las 6
+
+2.shouldReturnNightBetweenZeroAndSix sirve para revisar que el codigo de "Morning" cuando de una hora
+  despues de las 6 y  antes de las 12
+
+3.shouldReturnNightBetweenZeroAndSix sirve para revisar que el codigo de "afternoon" cuando de una hora
+despues de las 12 y  antes de las 18
+
+4.shouldReturnNightBetweenZeroAndSix sirve para revisar que el codigo de "Evening" cuando de una hora
+despues de las 18 y  antes de las 24
+
+5.shouldReturnNightBetweenZeroAndSix sirve para revisar que el codigo de "Invalid hour" cuando de una hora
+  que no concuerda
